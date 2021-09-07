@@ -7,5 +7,5 @@
 ➠pip install mechanize
 ➠git clone https://github.com/P4HRUL/BRUTE
 ➠cd BRUTE
-python BRUTE.py
+➠python BRUTE.py
 ```
